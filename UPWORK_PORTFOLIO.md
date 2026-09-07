@@ -29,4 +29,4 @@ Public repo: https://github.com/kienluu78/agent-desk-send-ok
 Python · AI Agent Development · Automation · Debugging · Technical Writing
 
 **Cover image**  
-`~/Shared Artifacts/upwork/20260907-agent-desk-send-ok-cover.png` (cream LZRC, 1200x675)
+Cream LZRC card, 1200x675. Title: Human-gated agent desk.
