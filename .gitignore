@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+SEND_OK
+send_ok
+Send_Ok
+*.rtf
+outbox/*
+!outbox/.gitkeep
+sent/*
+!sent/.gitkeep
+T-00*.draft
+cover.png
