@@ -182,7 +182,7 @@ def evaluate(world: Path) -> list[str]:
             dest = DEST.get(ticket)
             if not dest or rel != f"sent/{dest}":
                 findings.append(f"FAIL R2 ticket={ticket or '?'} reason=sent_bad_path")
-            continue
+                continue
             sent_path = world / "sent" / dest
             if sent_path.is_symlink() or not sent_path.is_file():
                 findings.append(
